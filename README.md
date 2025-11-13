@@ -1,7 +1,10 @@
 ### I'm Hyunsu Cho — a Software Engineering Student passionate about Cloud & Security.
 ---
 ### 👤 About Me & Contact
-⭐ **Hyunsu Cho(2001)**<br>
+  <img src="https://github.com/Jotriever/Jotriever/blob/main/my_photo.jpg" 
+       alt="프로필 이미지" width="360">
+
+⭐ **Hyunsu Cho(2001)** <br>
 🎓 **단국대학교 소프트웨어학과 (2021 ~)** <br>
 
 ✏️ **Summary**<br>
